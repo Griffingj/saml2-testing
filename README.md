@@ -1,5 +1,4 @@
 # Saml2-Testing
-A dependency injection library for async utility, modularity, and testability
 Webapps and cli tools that demo saml2 integrations, built with @socialtables/saml-protocol, Hapi.js, Boostrap, and Typescript
 
 ## Environment
