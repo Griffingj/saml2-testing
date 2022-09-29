@@ -30,7 +30,7 @@
     "ts-node": "^8.1.0"
   },
   "dependencies": {
-    "@hapi/cookie": "^10.1.0",
+    "@hapi/cookie": "^10.1.2",
     "@socialtables/saml-protocol": "^0.3.6",
     "axios": "^0.18.0",
     "boom": "^7.3.0",
