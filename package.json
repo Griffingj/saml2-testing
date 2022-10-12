@@ -31,7 +31,7 @@
   },
   "dependencies": {
     "@hapi/cookie": "^10.1.0",
-    "@socialtables/saml-protocol": "^0.3.6",
+    "@socialtables/saml-protocol": "^1.0.0",
     "axios": "^0.18.0",
     "boom": "^7.3.0",
     "ejs": "^2.6.1",
